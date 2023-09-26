@@ -7,7 +7,7 @@ I'm a Software Engineer passionate about backend web development and AI. Here's 
 - 👯 I’m looking to collaborate on: [AI projects]
 - 🤔 I’m looking for help with: [NASA Space Apps Challenge](https://www.spaceappschallenge.org/2023/)
 - 💬 Ask me about: [Backend Engineering with Python, GraphQL, Machine Learning]
-- - 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like optimistic nihilism. 
 
 ### 📊 My GitHub Stats
