@@ -18,7 +18,7 @@ I'm a Software Engineer passionate about backend web development and AI. Here's 
 
 ### 🚀 Some of My Projects
 
-- **[From Jupyter Notebooks to OOP Machine Learning Projects](https://github.com/tntath/notebooks-to-oop-simple-gan)**: I refactored a single Jupyter Notebooks into object oriented code in Python, so that they can be used in real products.
+- **[From Jupyter Notebooks to OOP Machine Learning Projects](https://github.com/tntath/notebooks-to-oop-simple-gan)**: I refactored a single Jupyter Notebooks into object oriented code in Python, so that it can be used in real products.
 - **[Hotel Reservation Application in Java](https://github.com/tntath/hotel-reservation)**: A Java application with a command line interface that enables a user to create an account, check the available rooms, and make a Reservation
 - **[ToDo list API with FastAPI](https://github.com/tntath/todo-app-fastapi)**:  An API for a ToDo list app as a part of a coding challenge. I used FastAPI as the main framework, Postgres for its databse, and Docker to con- tainerize them.
 
