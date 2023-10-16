@@ -2,10 +2,10 @@
 
 I'm a Software Engineer passionate about backend web development and AI. Here's a bit about me:
 
-- 🔭 I’m currently working on: [Single-Cell Pertubations Kaggle Competition](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations)
+- 🔭 I’m currently working on: a web app that handles renting agreements
 - 🌱 I’m currently learning: [Machine Learning Engineering for Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - 👯 I’m looking to collaborate on: [AI projects]
-- 🤔 I’m looking for help with: [NASA Space Apps Challenge](https://www.spaceappschallenge.org/2023/)
+- 🤔 I’m looking for help with: [Single-Cell Pertubations Kaggle Competition](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations)
 - 💬 Ask me about: [Backend Engineering with Python, GraphQL, Machine Learning]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like optimistic nihilism. 
