@@ -5,7 +5,7 @@ I'm a Software Engineer passionate about backend web development and AI. Here's 
 - 🔭 I’m currently working on: A web app that handles renting agreements
 - 🌱 I’m currently learning: [Machine Learning Engineering for Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - 👯 I’m looking to collaborate on: AI projects
-- 🤔 I’m looking for help with: [Single-Cell Pertubations Kaggle Competition](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations)
+- 🤔 I’m looking for help with: [AI Generated Text Detection](https://www.kaggle.com/competitions/llm-detect-ai-generated-text)
 - 💬 Ask me about: Backend Engineering with Python, GraphQL, Machine Learning
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like optimistic nihilism. 
