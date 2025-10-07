@@ -3,7 +3,7 @@
 I'm a Software Engineer passionate about backend web development and AI. Here's a bit about me:
 
 - 🔭 I’m currently working on: A 2D videogame in Unity
-- 🌱 I’m currently learning: How to create video games (:
+- 🌱 I’m currently learning: How to create video games 🙃
 - 👯 I’m looking to collaborate on: I'm a curious mind, feel free to reach me up with an interesting project!
 - 💬 Ask me about: Backend Engineering with Python, C++, GraphQL, Machine Learning, Video Game designing
 - 😄 Pronouns: He/Him
