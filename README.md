@@ -1,6 +1,6 @@
 ## Hi there, I'm Theodore 👋
 
-I'm a backend software engineer at **TeamViewer**, working mostly in C++ and Python. I enjoy problems where correctness matters, and I build with AI agents every day.
+I'm a backend software engineer at **TeamViewer**, working mostly in C++ and Python.
 
 Before that I built Python backend APIs at Codean, and I hold an MSc in Artificial Intelligence with research in deep reinforcement learning.
 
